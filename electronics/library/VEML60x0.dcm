@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP VEML6040
+D High Accuracy Ambient Light Sensor With I2C Interface
+K ambient light sensor I2C
+F https://www.mouser.se/datasheet/2/427/veml6030-933511.pdf
+$ENDCMP
+#
+#End Doc Library

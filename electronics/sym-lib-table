@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Micrel)(type Legacy)(uri ${KIPRJMOD}/library/Micrel.lib)(options "")(descr ""))
+  (lib (name VEML60x0)(type Legacy)(uri ${KIPRJMOD}/library/VEML60x0.lib)(options "")(descr ""))
+)
