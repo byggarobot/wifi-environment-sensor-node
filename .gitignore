@@ -1,0 +1,5 @@
+electronics/*-cache.lib
+electronics/*.bak
+electronics/*-bak
+electronics/*.tmp
+electronics/fp-info-cache
